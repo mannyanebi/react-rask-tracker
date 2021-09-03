@@ -1,3 +1,6 @@
+# react-rask-tracker
+This is a simple CRUD app using React and a server for JSON responses to Create, Read, Update and Delete tasks
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
