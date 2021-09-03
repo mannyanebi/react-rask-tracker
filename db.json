@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 2,
+      "text": "Teach Francis",
+      "day": "Aug. 15th at 4:30pm",
+      "reminder": false
+    },
+    {
+      "id": 3,
+      "text": "Cook Spaghetti",
+      "day": "Sept. 12th at 1:30pm",
+      "reminder": true
+    },
+    {
+      "text": "Collect Payment",
+      "day": "Sept, 03 at 3:00am",
+      "reminder": true,
+      "id": 5
+    },
+    {
+      "text": "Lorem Ipsum",
+      "day": "Today, 9:30am",
+      "reminder": true,
+      "id": 6
+    }
+  ]
+}
